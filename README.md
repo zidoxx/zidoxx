@@ -2,16 +2,15 @@
 
 🔭 I’m currently working on a personal project!
 
-🌱 I’m currently learning Java and Python 🤣
+🌱 I’m currently learning C# 🤣
 
 👯 I’m looking to collaborate with other content creators
 
-🥅 2021 Goals: 
+🥅 2023 Goals: 
 
 - Learn:
-  - Python
-  - Java(Spring, Hibernate)
-  - React Native
+  - C#
+  - Ionic
 - Find a Great Job:
   - Frontend
   - Backend
@@ -20,12 +19,17 @@
   - Teach FrontEnd Design
   - Teach BackEnd
   - Create Fullstack App
+- Actual Skills
+  - Javascript
+  - Angular 8+
+  - Typescript
+  - MySQL
+  - SQL Server
+  - C#(Basic)
 
 ⚡ Fun fact: I love programming, reading books, play soccer
 
-📫 How to reach me: [RESUME](http://estebancastriver.colombiapps.co)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zidoxx&langs_count=5&layout=compact)](https://github.com/zidoxx/github-readme-stats)
+📫 How to reach me: [RESUME]([Linkedin](https://www.linkedin.com/in/esteban-casta%C3%B1o-rivera/))
 
 [![](https://img.shields.io/badge/zidoxx-Follow%20Me-blue)](https://github.com/zidoxx) [![npm version](https://badge.fury.io/js/npm.svg)](https://badge.fury.io/js/npm) [![](https://img.shields.io/twitter/follow/zidoxx?label=Follow%20Me&style=social)](https://twitter.com/zidoxx)
 <a href="https://platzi.com/p/esteban-castano-rivera/">
