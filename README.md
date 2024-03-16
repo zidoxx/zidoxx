@@ -2,18 +2,16 @@
 
 🔭 I’m currently working on a personal project!
 
-🌱 I’m currently learning C# 🤣
+🌱 I’m currently learning C# - 
 
-👯 I’m looking to collaborate with other content creators
+👯 I’m looking to collaborate with another projects
 
-🥅 2023 Goals: 
+🥅 2024 Goals: 
 
 - Learn:
   - C#
-  - Ionic
+  - Master Angular
 - Find a Great Job:
-  - Frontend
-  - Backend
   - Fullstack
 - Create Youtube Channel:
   - Teach FrontEnd Design
@@ -26,6 +24,8 @@
   - MySQL
   - SQL Server
   - C#(Basic)
+  - Node Js
+  - Express
 
 ⚡ Fun fact: I love programming, reading books, play soccer
 
